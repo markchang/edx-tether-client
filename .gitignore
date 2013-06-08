@@ -1,2 +1,4 @@
 edXTether/assets/airshipconfig.properties
 edXTether/build
+.gradle/
+.idea/workspace.xml

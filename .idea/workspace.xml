@@ -10,38 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6160ffd6-398d-48da-9fc4-1747db666974" name="Default" comment="initial commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/ic_launcher-web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/libs/urbanairship-lib-2.1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/IntentReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/MainApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/edXTether.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edXTether/src/main/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tether-client.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="edXTether.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,7 +22,7 @@
     <file path="/Dummy.txt" changelist="6160ffd6-398d-48da-9fc4-1747db666974" time="1370654765616" ignored="false" />
     <file path="/MainApplication.java" changelist="6160ffd6-398d-48da-9fc4-1747db666974" time="1370654715143" ignored="false" />
     <file path="/IntentReceiver.java" changelist="6160ffd6-398d-48da-9fc4-1747db666974" time="1370633557498" ignored="false" />
-    <file path="/.gitignore" changelist="6160ffd6-398d-48da-9fc4-1747db666974" time="1370653653316" ignored="false" />
+    <file path="/.gitignore" changelist="6160ffd6-398d-48da-9fc4-1747db666974" time="1370654864277" ignored="false" />
     <file path="/README.md" changelist="6160ffd6-398d-48da-9fc4-1747db666974" time="1370654651112" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApplication.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainApplication.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="29" selection-start="937" selection-end="937" vertical-scroll-proportion="0.5890411">
+            <state line="37" column="29" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -154,10 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="15" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="87" selection-end="87" vertical-scroll-proportion="0.08219178">
               <folding />
             </state>
           </provider>
@@ -185,11 +155,11 @@
         <option value="$PROJECT_DIR$/edXTether/build.gradle" />
         <option value="$PROJECT_DIR$/edXTether/assets/airshipconfig.properties" />
         <option value="$PROJECT_DIR$/edXTether/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/IntentReceiver.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/MainActivity.java" />
         <option value="$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/MainApplication.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -517,16 +487,16 @@
       <workItem from="1370629841596" duration="57000" />
       <workItem from="1370629913960" duration="1310000" />
       <workItem from="1370631330056" duration="18000" />
-      <workItem from="1370631389143" duration="6232000" />
+      <workItem from="1370631389143" duration="6288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26285000" />
+    <option name="totallyTimeSpent" value="26341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1398" height="878" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329142" sideWeight="0.67103237" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329142" sideWeight="0.67103237" order="3" side_tool="false" content_ui="tabs" />
@@ -543,7 +513,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959546" sideWeight="0.6119674" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24926035" sideWeight="0.61081797" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24926035" sideWeight="0.61081797" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32585752" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -720,19 +690,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="15" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edXTether/src/main/java/org/edx/TetherClient/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="29" selection-start="937" selection-end="937" vertical-scroll-proportion="0.5890411">
+        <state line="37" column="29" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="87" selection-end="87" vertical-scroll-proportion="0.08219178">
+          <folding />
         </state>
       </provider>
     </entry>
