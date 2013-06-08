@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edXTether/edXTether.iml" filepath="$PROJECT_DIR$/edXTether/edXTether.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tether-client.iml" filepath="$PROJECT_DIR$/tether-client.iml" />
+    </modules>
+  </component>
+</project>
+
